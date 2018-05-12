@@ -1,4 +1,5 @@
 _repo: Chambers-s-Journal-of-Popular-Literature-Science-and-Art-No690-March-17-1877_47045
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -16,6 +17,9 @@ contributor:
       gutenberg_agent_id: '5276'
       url: http://www.gutenberg.org/2009/agents/5276
       wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
+covers:
+- cover_type: archival
+  image_path: 47045-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -23,6 +27,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47045#Chambers-s-Journal-of-Popular-Literature-Science-and-Art-No690-March-17-1877
 gutenberg_bookshelf: Chambers's Edinburgh Journal
 gutenberg_issued: '2014-10-04'
 gutenberg_type: Text
